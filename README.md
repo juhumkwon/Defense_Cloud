@@ -44,14 +44,17 @@
 4. Deep Residual Learning for Image Recognition(ResNet)
 
 [객체탐지 논문]
+
 5. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(Faster R-CNN)
 6. You Only Look Once: Unified, Real-Time Object Detection(YOLO)
 
 [이미지분할 논문]
+
 7. U-Net: Convolutional Networks for Biomedical Image Segmentation(U-Net)
 
 
 [최근 논문]
+
 8. Recent Advances in Scene Image Representation and Classification
 9. DWT-CompCNN: Deep Image Classification Network for High Throughput JPEG 2000 Compressed Documents
 10. IMAGE CLUSTERING CONDITIONED ON TEXT CRITERIA
