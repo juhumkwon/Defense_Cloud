@@ -36,6 +36,7 @@
 
 
 (발표자료)
+
 [이미지 분류 논문]
 1. ImageNet Classification with Deep Convolutional Neural Networks((AlexNet)
 2. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION(VGGNet)
