@@ -15,6 +15,7 @@
 5일: 군집화(Clustering) 알고리즘(클러스터링, K-평균, 계층적 군집화, DBSCAN)
 
 6.1일: 연관 규칙 학습(Association Rule Learning) 알고리즘(Apriori, FP-Growth)
+
 6.2 이상치 탐지(Anomaly Detection) 알고리즘(Isolation Forest, LOF(Local Outlier Factor))
 
 7일: 회귀(Regression) 알고리즘(선형회귀, 로지스틱회귀, 소프트맥스회귀)
